@@ -1,0 +1,18 @@
+{
+    "points": [
+        [0, 0, -50, "clickable"],
+        [0, 270, 100, "dynamic"],
+        [1, 270, 100, "clickable"],
+        [2, 330, 100, "static"],
+        [0, 330, 100, "dynamic"],
+        [4, 30, 100, "clickable"]],
+    "sticks": [
+        [0, 1],
+        [1, 2],
+        [2, 3],
+        [0, 4],
+        [4, 5]],
+    "static": [3],
+    "dynamic": [1, 4],
+    "clickable": [0, 2, 5]
+}

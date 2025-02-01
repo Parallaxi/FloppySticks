@@ -1,0 +1,11 @@
+{
+    "current_level": 0,
+    "end_level": 0,
+    "music": true,
+    "sound": true,
+    "resolution": [
+        920,
+        640
+    ],
+    "tutorial": true
+}
